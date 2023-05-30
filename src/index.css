@@ -101,11 +101,6 @@ textarea {
   font-size: 0.85rem;
 }
 
-.note__title::first-letter,
-.note__description::first-letter {
-  text-transform: uppercase;
-}
-
 .note__delete {
   position: absolute;
   top: 0px;
